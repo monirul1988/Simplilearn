@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+<listeners>
+<listener class-name="resources.listeners"></listener>
+
+</listeners>
+
+	<test thread-count="5" name="Test">
+
+		<classes>
+			<class name="com.simplilearn.testcases.Register_Test" />
+			<class name="com.simplilearn.testcases.Sign_in_Test" />
+			<class name="com.simplilearn.testcases.Sign_in_Invalid_Test" />
+			<class name="com.simplilearn.testcases.Search_product_Test" />
+			<class name="com.simplilearn.testcases.Editing_Profile_Test" />
+	
+				</classes>
+
+
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

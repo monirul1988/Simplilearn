@@ -1,0 +1,7 @@
+12:08:26.748 [main] INFO  com.simplilearn.testcases.RegisterTest - driver initialized done
+12:08:26.765 [main] ERROR com.simplilearn.testcases.RegisterTest - error
+12:08:26.765 [main] FATAL com.simplilearn.testcases.RegisterTest - fatal
+12:08:26.765 [main] DEBUG com.simplilearn.testcases.RegisterTest - debug
+12:14:06.166 [main] INFO  com.simplilearn.testcases.RegisterTest - driver initialized done
+12:14:06.176 [main] ERROR com.simplilearn.testcases.RegisterTest - error
+12:14:06.176 [main] FATAL com.simplilearn.testcases.RegisterTest - fatal

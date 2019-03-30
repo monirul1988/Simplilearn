@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="resources.listeners"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.simplilearn.testcases.Register_Test">
+        <methods>
+          <include name="Register_Test"/>
+        </methods>
+      </class> <!-- com.simplilearn.testcases.Register_Test -->
+      <class name="com.simplilearn.testcases.Editing_Profile_Test">
+        <methods>
+          <include name="Editing_Profile_Test"/>
+        </methods>
+      </class> <!-- com.simplilearn.testcases.Editing_Profile_Test -->
+      <class name="com.simplilearn.testcases.Sign_in_Invalid_Test">
+        <methods>
+          <include name="Sign_in_Invalid_Test"/>
+        </methods>
+      </class> <!-- com.simplilearn.testcases.Sign_in_Invalid_Test -->
+      <class name="com.simplilearn.testcases.Sign_in_Test">
+        <methods>
+          <include name="sign_in_Test"/>
+        </methods>
+      </class> <!-- com.simplilearn.testcases.Sign_in_Test -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="101502" started-at="2019-03-24T14:11:31Z" finished-at="2019-03-24T14:13:13Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="101502" started-at="2019-03-24T14:11:31Z" finished-at="2019-03-24T14:13:13Z">
+      <class name="com.simplilearn.testcases.Sign_in_Test">
+        <test-method status="PASS" signature="sign_in_Test()[pri:3, instance:com.simplilearn.testcases.Sign_in_Test@3754a4bf]" name="sign_in_Test" duration-ms="18459" started-at="2019-03-24T14:12:14Z" finished-at="2019-03-24T14:12:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sign_in_Test -->
+      </class> <!-- com.simplilearn.testcases.Sign_in_Test -->
+      <class name="com.simplilearn.testcases.Editing_Profile_Test">
+        <test-method status="PASS" signature="Editing_Profile_Test()[pri:5, instance:com.simplilearn.testcases.Editing_Profile_Test@175c2241]" name="Editing_Profile_Test" duration-ms="20455" started-at="2019-03-24T14:12:52Z" finished-at="2019-03-24T14:13:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Editing_Profile_Test -->
+      </class> <!-- com.simplilearn.testcases.Editing_Profile_Test -->
+      <class name="com.simplilearn.testcases.Sign_in_Invalid_Test">
+        <test-method status="PASS" signature="Sign_in_Invalid_Test()[pri:2, instance:com.simplilearn.testcases.Sign_in_Invalid_Test@62379589]" name="Sign_in_Invalid_Test" duration-ms="15760" started-at="2019-03-24T14:11:59Z" finished-at="2019-03-24T14:12:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sign_in_Invalid_Test -->
+      </class> <!-- com.simplilearn.testcases.Sign_in_Invalid_Test -->
+      <class name="com.simplilearn.testcases.Search_product_Test">
+        <test-method status="PASS" signature="Search_product_Test()[pri:4, instance:com.simplilearn.testcases.Search_product_Test@4afcd809]" name="Search_product_Test" duration-ms="19697" started-at="2019-03-24T14:12:33Z" finished-at="2019-03-24T14:12:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search_product_Test -->
+      </class> <!-- com.simplilearn.testcases.Search_product_Test -->
+      <class name="com.simplilearn.testcases.Register_Test">
+        <test-method status="PASS" signature="Register_Test()[pri:1, instance:com.simplilearn.testcases.Register_Test@13c9d689]" name="Register_Test" duration-ms="26881" started-at="2019-03-24T14:11:32Z" finished-at="2019-03-24T14:11:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register_Test -->
+      </class> <!-- com.simplilearn.testcases.Register_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
